@@ -26,9 +26,12 @@ In the **research proposal** required by MBCS, you outline prior research, your 
 
 Preregistration separates **confirmatory** and **exploratory** research. Different data must be used to generate and to test hypotheses. Despite our best efforts and intentions, confusing these types of analyses can happen in research if your plans are not explicitly laid out. 
 
-```markdown
+<!-- ```markdown
 What if I need to change something? You don’t need to feel shackled to your preregistration; if you want to make a change, make it. Preregistration forces you to simply be transparent in your final report about the changes you made and why.
-```
+``` -->
+
+> What if I need to change something? You don’t need to feel shackled to your preregistration; if you want to make a change, make it. Preregistration forces you to simply be transparent in your final report about the changes you made and why.
+
 
 Most of the work done for our mandatory research proposals can feed right into a preregistration. It’s a small extra step to take for increased transparency and accountability to yourself and the scientific community.
 
