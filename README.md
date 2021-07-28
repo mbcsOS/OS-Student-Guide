@@ -98,9 +98,9 @@ If you need additional help, the [UvA writing center](https://intt.uva.nl/langua
 You are done with your final report and you want to share it with the world! But you might also be wondering if it is ready or good enough to be submitted to a full-fledged scientific journal. Pre-printing can be a handy way to get feedback from a broader expert audience. More generally, pre-printing is considered to be an Open Science practice because it enables open access to manuscripts in addition to increasing transparency in pre-print peer review. 
 
 Posting a pre-print can be as easy as uploading your manuscript to one of the several pre-print servers:
-- PsyArXiv
-- bioRxiv
-- arXiv.org
+- [PsyArXiv](https://psyarxiv.com/)
+- [bioRxiv](https://www.biorxiv.org/)
+- [arXiv.org](https://arxiv.org/)
 
 However, prior to posting the manuscript, be sure to complete these two checks:
 - Check with your supervisor and other collaborators if they agree with posting it 
